@@ -8,17 +8,8 @@ Saya adalah developer yang fokus pada pengembangan web modern, backend API, dan 
 * Frontend modern dan integrasi API
 * Docker & WSL2 untuk development environment
 * Perancangan database dan ERD
-* Sistem POS / manajemen toko kopi
+* Sistem POS
 * Arsitektur aplikasi dan routing API
-
-Saya juga sedang mengerjakan dan mempelajari:
-
-* Sistem absensi petugas
-* Manajemen keuangan dan kas
-* Laporan penjualan produk kopi
-* Struktur role & permission (Superadmin, Admin, Petugas)
-* Optimasi workflow development menggunakan Docker
-
 ---
 
 ## Tech Stack
@@ -67,7 +58,6 @@ Building systems, learning continuously, and improving one project at a time.
 
 ## Featured Interests
 
-* ☕ Coffee Shop Management System
 * 📊 Financial & Sales Reporting
 * 🧩 ERD & Database Design
 * 🔐 Authentication & Role Management
